@@ -20,6 +20,11 @@ mas também estou ampliando meus conhecimentos para atuar como **Full Stack**.
 </div>
 
 ---
+### 🎓 Certificações e Cursos
+
+<a href="https://www.dio.me/certificate/BCUZWGVU/share"><img src="https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="100px"></a>
+
+---
 
 ## 📊 Estatísticas do GitHub
 ![Ivailton GitHub stats](https://github-readme-stats.vercel.app/api?username=IvailtonFernandes&show_icons=true&theme=tokyonight)
