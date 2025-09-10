@@ -19,6 +19,22 @@ mas também estou ampliando meus conhecimentos para atuar como **Full Stack**.
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
+
+---
+
+
+
+- 🌐 **Front-end:** HTML, CSS, JavaScript, React, Figma  
+- ⚙️ **Versionamento:** Git & GitHub  
+- 📦 **Em aprendizado:** Node.js, Express, APIs REST, Python
+
+
+---
+
+## 📌 Projetos em destaque
+- 🔗 [Pokedex](https://ivailtonfernandes.github.io/pokedex/) → Uma pokedex interativa utilizando a [PokeAPI](https://pokeapi.co/).  
+- 📂 [Meus repositórios](https://github.com/IvailtonFernandes?tab=repositories) → Veja todos os meus projetos públicos.  
+
 ---
 ### 🎓 Certificações e Cursos
 
